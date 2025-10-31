@@ -3,6 +3,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+## artifacts from sample CA creation
+/core/src/test/resources/test*
+
 ### IntelliJ IDEA ###
 /.idea/*.xml
 .idea/*.xml
